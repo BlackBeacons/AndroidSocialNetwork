@@ -31,5 +31,8 @@ WebSocket support with Spring Websocket -
 Spring Data JPA + Bean Validation -
 Database updates with Liquibase 
 
+I will publish more issues to develop in order to extend the Android App Features ;-)
+(geolocation -near friends-, messaging, optional features to customize the social network, etc.)
+
 
 
