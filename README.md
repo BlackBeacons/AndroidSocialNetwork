@@ -5,6 +5,9 @@ Develop an Android Front-end for this Back-end!
 
 http://android2.byted.xyz
 
+Back-end Github:
+https://github.com/alfredorueda/social-network-backend
+
 Tech Stack:
 
 Client side:
